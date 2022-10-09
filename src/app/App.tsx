@@ -6,6 +6,8 @@ import { AppRouter } from 'app/providers/router';
 import { Navbar } from 'widgets/Navbar';
 import { Sidebar } from 'widgets/Sidebar';
 
+// import { Sidebar } from 'widgets/Sidebar';
+
 function App() {
     const { theme } = useTheme();
 
