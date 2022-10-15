@@ -21,6 +21,5 @@ export function buildPlugins({ paths, isDev }: BuildOptions): webpack.WebpackPlu
         new BundleAnalyzerPlugin({
             openAnalyzer: false,
         }),
-
     ];
 }
