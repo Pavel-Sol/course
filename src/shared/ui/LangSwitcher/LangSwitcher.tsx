@@ -25,4 +25,3 @@ export const LangSwitcher = ({ className, short }: LangSwitcherProps) => {
         </Button>
     );
 };
-
